@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b81fbf5c85eb4c94298c8af4d4f52c33
+guid: e23466efbe3704749b8d11dc586178e6
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -106,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: player_normal_up_0
+      name: enemy0_0
       rect:
         serializedVersion: 2
-        x: 12
-        y: 35
-        width: 10
-        height: 23
+        x: 16
+        y: 72
+        width: 30
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -120,20 +120,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2663e82208ae7d46b01423258a78e7a
-      internalID: 1141267663
+      spriteID: 7272b0ca12c6369409b56504407a87e2
+      internalID: -1991645410
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player_normal_up_1
+      name: enemy0_1
       rect:
         serializedVersion: 2
-        x: 44
-        y: 35
-        width: 10
-        height: 23
+        x: 80
+        y: 72
+        width: 30
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,20 +141,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80bdfd6ea3195ab4090a75c9a677a66a
-      internalID: -1807136232
+      spriteID: 74ee9f2a329e9d443ac82c0699901c4b
+      internalID: -2036532186
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player_normal_up_2
+      name: enemy0_2
       rect:
         serializedVersion: 2
-        x: 12
-        y: 3
-        width: 10
-        height: 23
+        x: 16
+        y: 10
+        width: 30
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,20 +162,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd91556bda189b2448b21bd5b916ff3e
-      internalID: 854956845
+      spriteID: cc39f2a3075cfc445b5db703dc6c72ca
+      internalID: -1790133832
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player_normal_up_3
+      name: enemy0_3
       rect:
         serializedVersion: 2
-        x: 44
-        y: 3
-        width: 10
-        height: 23
+        x: 80
+        y: 8
+        width: 30
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -183,8 +183,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a4d4c4b6389b0f246ba4db5f4138b191
-      internalID: 511852971
+      spriteID: b3c4f78b7443fb64387f058a7788813c
+      internalID: 755140456
       vertices: []
       indices: 
       edges: []
@@ -200,10 +200,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      player_normal_up_3: 511852971
-      player_normal_up_0: 1141267663
-      player_normal_up_2: 854956845
-      player_normal_up_1: -1807136232
+      enemy0_2: -1790133832
+      enemy0_1: -2036532186
+      enemy0_3: 755140456
+      enemy0_0: -1991645410
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
